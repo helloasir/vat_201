@@ -1,16 +1,16 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "VAT201"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "VAT 201 - VAT Calculator"
+description = "UAE VAT Calculator , Dubai VAT Tax Calculator , Easy Online VAT calculator tax amount calculator. To calculate VAT Tax just type the amount and press calculate button to get result"
 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "vat201.com"
+titleHome = "VAT Calculator"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
@@ -50,7 +50,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a href=\"https://www.github.com/\">Github</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a> . CDN By Cloudflare and Designed By Madinadeals"
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Alert
@@ -71,4 +71,4 @@ editPage = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  collapsibleSidebar = false
+  collapsibleSidebar = true
